@@ -10,5 +10,4 @@ Facebook reactions developed only with html and css.
 ![alt tag](http://deividmarques.github.io/facebook-reactions-css/app/images/print-2.jpg)
 ![alt tag](http://deividmarques.github.io/facebook-reactions-css/app/images/print-3.jpg)
 
-
-Project by Deivid Marques
+Edited & Commited by Ipeleng Bela
